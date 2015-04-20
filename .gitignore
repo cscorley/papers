@@ -1,0 +1,6 @@
+*.pdf
+datasets/
+.DS_Store
+.stfolder
+
+*.bak
